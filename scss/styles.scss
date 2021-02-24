@@ -37,7 +37,7 @@
 */
 
 // Define base and accent colors
-$base-color: #9e4c4c;
+$base-color: #4cece4;
 $base-color-hover: darken($base-color, 50%);
 // Define background colors
 $background: #fff;
@@ -613,8 +613,6 @@ footer {
 
 .project-image {
     float: left;
-    width: 50%;
-    height: 50%;
 }
 
 .project-info {
