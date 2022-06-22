@@ -48,6 +48,7 @@ $border: #dcd9d9;
 $heading: #374054;
 $text: #74808a;
 
+
 /*
     ---------------------
     ----- 2. Mixins -----
@@ -789,6 +790,10 @@ footer {
     }
 }
 
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
 
 /*
     -----------------------------
